@@ -13,7 +13,7 @@ function Checkout() {
         <div className="checkout">
             <div className="checkout__left">
 
-            <img className="checkout__ad" src="You have no items in your basket. To buy one or more items, click "Add to basket" next to the item." alt="" />
+            <img className="checkout__ad" src="https://images-eu.ssl-images-amazon.com/images/G/31/img17/pc_banner_2.jpg" alt="" />
             {basket?.length === 0 ? (
                 <div>
                     <h2>Your Shopping Cart is empty.</h2>

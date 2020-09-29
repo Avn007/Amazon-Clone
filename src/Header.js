@@ -19,7 +19,7 @@ function Header() {
         <nav className="header">
             
             {/* logo on the left */}
-            <Link to="/login">
+            <Link to="/">
                 <img className="header__logo" src="http://pngimg.com/uploads/amazon/amazon_PNG11.png" alt=""></img>
             </Link>
 
